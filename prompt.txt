@@ -1,0 +1,1 @@
+Write a {MAX_WORDS} word summary of {CARD_NAME} tarot card in its {CARD_ORIENTATION} form in the style of giving advice from the reader's soul to the reader. The tone should be witty and empathetic. Exclude any mention of cards or tarot reading.
